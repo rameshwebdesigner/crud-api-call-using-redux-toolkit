@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "ramesh",
+            "email": "test@1234.com",
+            "age": 40,
+            "gendar": "male"
+        },
+        {
+            "id": "2",
+            "name": "ramesh",
+            "email": "test@1234.com",
+            "age": 40,
+            "gendar": "male"
+        },
+        {
+            "id": "3",
+            "name": "ramesh",
+            "email": "test@1234.com",
+            "age": 40,
+            "gendar": "male"
+        },
+        {
+            "id": "6275",
+            "name": "laxmi",
+            "email": "aadsa2sdsdsa@sdsdas.com",
+            "age": 40,
+            "gendar": "female"
+        }
+    ]
+}
